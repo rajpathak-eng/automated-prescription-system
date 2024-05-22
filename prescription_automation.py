@@ -11,12 +11,12 @@ from bs4 import BeautifulSoup
 imap_host = 'imap.gmail.com'
 smtp_host = 'smtp.gmail.com'
 smtp_port = 587
-email_user = 'Tom@v2ogroup.com'
-email_pass = 'T00124472H!?#'
-supplier_email = 'info@spektaclesolutions.co.uk'
+email_user = 'email@gmail.com'
+email_pass = 'Your Email Password'
+supplier_email = 'Suplier@gmail.com'
 
-lensadvizor_token = 'la_f540161C1fca6E590dBD42aa7125f1116Ea7cB'
-lensadvizor_shop = 'chambora.myshopify.com'
+lensadvizor_token = 'Api Token Key'
+lensadvizor_shop = 'Api Url'
 
 # Function to fetch emails
 def fetch_emails():
