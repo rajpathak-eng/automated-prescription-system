@@ -1,21 +1,33 @@
-# Automated Prescription Download and Forwarding System
+# Shopify Prescription Automation
 
-## Overview
+This project automates the process of downloading and forwarding prescription files associated with orders from a Shopify store. 
 
-This project automates the process of downloading prescription files from LensAdvisor and forwarding them to a supplier via email. It is designed for Chambora, an online eyewear store using Shopify, to streamline their prescription handling process.
+## Client Issue
 
-## Problem Statement
+The client needed an automated solution to handle prescription files associated with orders from their Shopify store. Each order contains a link to the prescription file, which is uploaded using the LensAdvisor app. The process involves the following steps:
 
-Chambora faced challenges in managing prescription files manually, which involved:
-1. Extracting prescription links from order confirmation emails.
-2. Downloading prescription files from LensAdvisor.
-3. Forwarding the files to their supplier with appropriate labels.
+1. An email is received with the order details and a link to the prescription.
+2. The prescription link sometimes requires a login to access the file.
+3. The prescription file (PDF, PNG, JPG) needs to be downloaded.
+4. The downloaded file should be labeled with the order number.
+5. The labeled file needs to be sent to the supplier via email.
 
-## Solution
+## Solution Provided
 
-The solution involves an automated system that:
-1. Fetches order confirmation emails from specific senders.
-2. Extracts prescription links from the emails.
-3. Downloads the prescription files using LensAdvisor's API.
-4. Forwards the files to the supplier, labeled with the order number and date.
-5. Runs automatically at regular intervals using a cron job.
+To address the client's needs, a Python script was created to automate the entire process. The solution includes the following components:
+
+1. **Email Fetching**: Using the `imaplib` and `email` libraries to connect to the email server, search for relevant emails, and extract order information and prescription links.
+2. **Prescription Link Extraction**: Using `BeautifulSoup` to parse the email content and extract the prescription link.
+3. **File Downloading**: Accessing the LensAdvisor API to download the prescription file.
+4. **Email Sending**: Using `smtplib` to send an email with the prescription file attached to the supplier.
+5. **Flask Web Interface** (Optional): A simple Flask app to manually trigger the script and monitor the process.
+
+## Technologies Used
+
+- **Python**: Core scripting language.
+- **IMAPLIB**: For fetching emails.
+- **BeautifulSoup**: For parsing HTML content.
+- **Requests**: For making HTTP requests to the LensAdvisor API.
+- **SMTPLIB**: For sending emails.
+- **Flask** (Optional): For creating a web interface to trigger the script manually.
+- **AWS EC2**: For hosting the script and running it in a scheduled manner using cron jobs.
