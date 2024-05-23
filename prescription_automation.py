@@ -13,7 +13,7 @@ smtp_host = 'smtp.gmail.com'
 smtp_port = 587
 email_user = 'Tom@v2ogroup.com'
 email_pass = 'T00124472H!?#'
-supplier_email = 'info@spektaclesolutions.co.uk'
+supplier_email = 'rajpathak.freelancer@gmail.com'
 
 lensadvizor_token = 'la_f540161C1fca6E590dBD42aa7125f1116Ea7cB'
 lensadvizor_shop = 'chambora.myshopify.com'
