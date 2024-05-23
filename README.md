@@ -31,3 +31,56 @@ To address the client's needs, a Python script was created to automate the entir
 - **SMTPLIB**: For sending emails.
 - **Flask** (Optional): For creating a web interface to trigger the script manually.
 - **AWS EC2**: For hosting the script and running it in a scheduled manner using cron jobs.
+
+## Setup Instructions
+
+### Prerequisites
+
+- An AWS account and EC2 instance.
+- A Gmail account with IMAP enabled (or any other email provider with IMAP support).
+- Python 3.x installed on the server.
+- PuTTY for SSH access to the server (if using Windows).
+
+### Step-by-Step Guide
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/Shopify-Prescription-Automation.git
+   cd Shopify-Prescription-Automation
+
+
+**2. Set Up a Virtual Environment**
+
+python3 -m venv venv
+source venv/bin/activate
+
+**3. Install Dependencies**
+
+pip install -r requirements.txt
+
+
+**4. Configure the Script**
+Update the configuration section in prescription_automation.py with your email credentials, LensAdvisor token, and other necessary details.
+
+**5. Run the Script**
+
+python prescription_automation.py
+
+**6. Set Up Automated Execution**
+Add a cron job to run the script at regular intervals (e.g., every 15 minutes):
+
+crontab -e
+Add the following line:
+
+*/15 * * * * /path/to/your/venv/bin/python /path/to/your/script/prescription_automation.py
+
+**Optional: Run the Flask App**
+
+python app.py
+
+
+Access the web interface at http://yourserver:5000/run-script.
+
+
+                      
