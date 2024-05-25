@@ -1,0 +1,616 @@
+2024-05-24 16:36:10 - Script execution started
+2024-05-24 16:36:10 - Starting to fetch emails
+2024-05-24 16:36:12 - Fetched 36 emails
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Extracting prescription link
+2024-05-24 16:36:12 - No link found
+2024-05-24 16:36:12 - Script execution completed
+2024-05-24 16:48:02 - Script execution started
+2024-05-24 16:48:02 - Starting to fetch emails
+2024-05-24 16:48:04 - Fetched 36 emails
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Extracting prescription link
+2024-05-24 16:48:04 - No link found
+2024-05-24 16:48:04 - Script execution completed
+2024-05-24 18:11:01 - Script execution started
+2024-05-24 18:11:01 - Starting to fetch emails
+2024-05-24 18:11:03 - Fetched 36 emails
+2024-05-24 18:11:03 - Extracting prescription link
+2024-05-24 18:11:03 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/APPQEEKK3C-1715768507.JPG
+2024-05-24 18:11:03 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/APPQEEKK3C-1715768507.JPG
+2024-05-24 18:11:03 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/APPQEEKK3C-1715768507.JPG
+2024-05-24 18:11:04 - Email sent successfully
+2024-05-24 18:11:04 - Extracting prescription link
+2024-05-24 18:11:04 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/IE2VMZGJEH-1715780205.pdf
+2024-05-24 18:11:04 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/IE2VMZGJEH-1715780205.pdf
+2024-05-24 18:11:04 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/IE2VMZGJEH-1715780205.pdf
+2024-05-24 18:11:05 - Email sent successfully
+2024-05-24 18:11:05 - Extracting prescription link
+2024-05-24 18:11:05 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/L17O6FVWEM-1715782260.png
+2024-05-24 18:11:05 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/L17O6FVWEM-1715782260.png
+2024-05-24 18:11:05 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/L17O6FVWEM-1715782260.png
+2024-05-24 18:11:06 - Email sent successfully
+2024-05-24 18:11:06 - Extracting prescription link
+2024-05-24 18:11:06 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 18:11:06 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 18:11:06 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 18:11:07 - Email sent successfully
+2024-05-24 18:11:07 - Extracting prescription link
+2024-05-24 18:11:07 - Found link: 
+2024-05-24 18:11:07 - Extracting prescription link
+2024-05-24 18:11:07 - Found link: 
+2024-05-24 18:11:07 - Extracting prescription link
+2024-05-24 18:11:07 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OF9YHET3A9-1715875868.jpg
+2024-05-24 18:11:07 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OF9YHET3A9-1715875868.jpg
+2024-05-24 18:11:07 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OF9YHET3A9-1715875868.jpg
+2024-05-24 18:11:07 - Email sent successfully
+2024-05-24 18:11:07 - Extracting prescription link
+2024-05-24 18:11:07 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/CM7DCM061A-1715928098.pdf
+2024-05-24 18:11:07 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/CM7DCM061A-1715928098.pdf
+2024-05-24 18:11:07 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/CM7DCM061A-1715928098.pdf
+2024-05-24 18:11:08 - Email sent successfully
+2024-05-24 18:11:08 - Extracting prescription link
+2024-05-24 18:11:08 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/BMYFSABY7G-1715934433.jpeg
+2024-05-24 18:11:08 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/BMYFSABY7G-1715934433.jpeg
+2024-05-24 18:11:08 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/BMYFSABY7G-1715934433.jpeg
+2024-05-24 18:11:08 - Email sent successfully
+2024-05-24 18:11:09 - Extracting prescription link
+2024-05-24 18:11:09 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/52XDL09FJ8-1715937390.jpg
+2024-05-24 18:11:09 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/52XDL09FJ8-1715937390.jpg
+2024-05-24 18:11:09 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/52XDL09FJ8-1715937390.jpg
+2024-05-24 18:11:09 - Email sent successfully
+2024-05-24 18:11:09 - Extracting prescription link
+2024-05-24 18:11:09 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/81A8M1BXIG-1715964455.pdf
+2024-05-24 18:11:09 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/81A8M1BXIG-1715964455.pdf
+2024-05-24 18:11:09 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/81A8M1BXIG-1715964455.pdf
+2024-05-24 18:11:10 - Email sent successfully
+2024-05-24 18:11:10 - Extracting prescription link
+2024-05-24 18:11:10 - Found link: 
+2024-05-24 18:11:10 - Extracting prescription link
+2024-05-24 18:11:10 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-20/ZKEVF383T8-1716216836.pdf
+2024-05-24 18:11:10 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/ZKEVF383T8-1716216836.pdf
+2024-05-24 18:11:10 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/ZKEVF383T8-1716216836.pdf
+2024-05-24 18:11:11 - Email sent successfully
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-21/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 18:11:11 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 18:11:11 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 18:11:11 - Email sent successfully
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: 
+2024-05-24 18:11:11 - Extracting prescription link
+2024-05-24 18:11:11 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-22/R27NUY8FSS-1716401296.pdf
+2024-05-24 18:11:11 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/R27NUY8FSS-1716401296.pdf
+2024-05-24 18:11:11 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/R27NUY8FSS-1716401296.pdf
+2024-05-24 18:11:12 - Email sent successfully
+2024-05-24 18:11:12 - Extracting prescription link
+2024-05-24 18:11:12 - Found link: 
+2024-05-24 18:11:12 - Extracting prescription link
+2024-05-24 18:11:12 - Found link: 
+2024-05-24 18:11:12 - Extracting prescription link
+2024-05-24 18:11:12 - Found link: 
+2024-05-24 18:11:12 - Extracting prescription link
+2024-05-24 18:11:12 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 18:11:12 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 18:11:12 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 18:11:13 - Email sent successfully
+2024-05-24 18:11:13 - Extracting prescription link
+2024-05-24 18:11:13 - Found link: 
+2024-05-24 18:11:13 - Extracting prescription link
+2024-05-24 18:11:13 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/KJ573Q258I-1716471767.jpg
+2024-05-24 18:11:13 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/KJ573Q258I-1716471767.jpg
+2024-05-24 18:11:13 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/KJ573Q258I-1716471767.jpg
+2024-05-24 18:11:13 - Email sent successfully
+2024-05-24 18:11:13 - Extracting prescription link
+2024-05-24 18:11:13 - Found link: 
+2024-05-24 18:11:13 - Extracting prescription link
+2024-05-24 18:11:13 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 18:11:13 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 18:11:13 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 18:11:14 - Email sent successfully
+2024-05-24 18:11:14 - Extracting prescription link
+2024-05-24 18:11:14 - Found link: 
+2024-05-24 18:11:14 - Extracting prescription link
+2024-05-24 18:11:14 - Found link: 
+2024-05-24 18:11:14 - Extracting prescription link
+2024-05-24 18:11:14 - Found link: 
+2024-05-24 18:11:14 - Extracting prescription link
+2024-05-24 18:11:14 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-24/69TFAQG6I0-1716566715.pdf
+2024-05-24 18:11:14 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/69TFAQG6I0-1716566715.pdf
+2024-05-24 18:11:14 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/69TFAQG6I0-1716566715.pdf
+2024-05-24 18:11:15 - Email sent successfully
+2024-05-24 18:11:15 - Script execution completed
+2024-05-24 18:58:33 - Script execution started
+2024-05-24 18:58:33 - Starting to fetch emails
+2024-05-24 18:58:36 - Fetched 36 emails
+2024-05-24 18:58:36 - Extracting prescription link
+2024-05-24 18:58:36 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/APPQEEKK3C-1715768507.JPG
+2024-05-24 18:58:36 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/APPQEEKK3C-1715768507.JPG
+2024-05-24 18:58:36 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/APPQEEKK3C-1715768507.JPG
+2024-05-24 18:58:37 - Email sent successfully
+2024-05-24 18:58:37 - Extracting prescription link
+2024-05-24 18:58:37 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/IE2VMZGJEH-1715780205.pdf
+2024-05-24 18:58:37 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/IE2VMZGJEH-1715780205.pdf
+2024-05-24 18:58:37 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/IE2VMZGJEH-1715780205.pdf
+2024-05-24 18:58:37 - Email sent successfully
+2024-05-24 18:58:37 - Extracting prescription link
+2024-05-24 18:58:37 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/L17O6FVWEM-1715782260.png
+2024-05-24 18:58:37 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/L17O6FVWEM-1715782260.png
+2024-05-24 18:58:37 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/L17O6FVWEM-1715782260.png
+2024-05-24 18:58:38 - Email sent successfully
+2024-05-24 18:58:38 - Extracting prescription link
+2024-05-24 18:58:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 18:58:38 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 18:58:38 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 18:58:39 - Email sent successfully
+2024-05-24 18:58:39 - Extracting prescription link
+2024-05-24 18:58:39 - Found link: 
+2024-05-24 18:58:39 - Extracting prescription link
+2024-05-24 18:58:39 - Found link: 
+2024-05-24 18:58:39 - Extracting prescription link
+2024-05-24 18:58:39 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OF9YHET3A9-1715875868.jpg
+2024-05-24 18:58:39 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OF9YHET3A9-1715875868.jpg
+2024-05-24 18:58:39 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/OF9YHET3A9-1715875868.jpg
+2024-05-24 18:58:39 - Email sent successfully
+2024-05-24 18:58:39 - Extracting prescription link
+2024-05-24 18:58:39 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/CM7DCM061A-1715928098.pdf
+2024-05-24 18:58:39 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/CM7DCM061A-1715928098.pdf
+2024-05-24 18:58:39 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/CM7DCM061A-1715928098.pdf
+2024-05-24 18:58:40 - Email sent successfully
+2024-05-24 18:58:40 - Extracting prescription link
+2024-05-24 18:58:40 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/BMYFSABY7G-1715934433.jpeg
+2024-05-24 18:58:40 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/BMYFSABY7G-1715934433.jpeg
+2024-05-24 18:58:40 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/BMYFSABY7G-1715934433.jpeg
+2024-05-24 18:58:41 - Email sent successfully
+2024-05-24 18:58:41 - Extracting prescription link
+2024-05-24 18:58:41 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/52XDL09FJ8-1715937390.jpg
+2024-05-24 18:58:41 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/52XDL09FJ8-1715937390.jpg
+2024-05-24 18:58:41 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/52XDL09FJ8-1715937390.jpg
+2024-05-24 18:58:41 - Email sent successfully
+2024-05-24 18:58:41 - Extracting prescription link
+2024-05-24 18:58:41 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/81A8M1BXIG-1715964455.pdf
+2024-05-24 18:58:41 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/81A8M1BXIG-1715964455.pdf
+2024-05-24 18:58:41 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/81A8M1BXIG-1715964455.pdf
+2024-05-24 18:58:42 - Email sent successfully
+2024-05-24 18:58:42 - Extracting prescription link
+2024-05-24 18:58:42 - Found link: 
+2024-05-24 18:58:42 - Extracting prescription link
+2024-05-24 18:58:42 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-20/ZKEVF383T8-1716216836.pdf
+2024-05-24 18:58:42 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/ZKEVF383T8-1716216836.pdf
+2024-05-24 18:58:42 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/ZKEVF383T8-1716216836.pdf
+2024-05-24 18:58:43 - Email sent successfully
+2024-05-24 18:58:43 - Extracting prescription link
+2024-05-24 18:58:43 - Found link: 
+2024-05-24 18:58:43 - Extracting prescription link
+2024-05-24 18:58:43 - Found link: 
+2024-05-24 18:58:43 - Extracting prescription link
+2024-05-24 18:58:43 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-21/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 18:58:43 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 18:58:43 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 18:58:44 - Email sent successfully
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-22/R27NUY8FSS-1716401296.pdf
+2024-05-24 18:58:44 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/R27NUY8FSS-1716401296.pdf
+2024-05-24 18:58:44 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/R27NUY8FSS-1716401296.pdf
+2024-05-24 18:58:44 - Email sent successfully
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: 
+2024-05-24 18:58:44 - Extracting prescription link
+2024-05-24 18:58:44 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 18:58:44 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 18:58:44 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 18:58:45 - Email sent successfully
+2024-05-24 18:58:45 - Extracting prescription link
+2024-05-24 18:58:45 - Found link: 
+2024-05-24 18:58:45 - Extracting prescription link
+2024-05-24 18:58:45 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/KJ573Q258I-1716471767.jpg
+2024-05-24 18:58:45 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/KJ573Q258I-1716471767.jpg
+2024-05-24 18:58:45 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/KJ573Q258I-1716471767.jpg
+2024-05-24 18:58:46 - Email sent successfully
+2024-05-24 18:58:46 - Extracting prescription link
+2024-05-24 18:58:46 - Found link: 
+2024-05-24 18:58:46 - Extracting prescription link
+2024-05-24 18:58:46 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 18:58:46 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 18:58:46 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 18:58:46 - Email sent successfully
+2024-05-24 18:58:46 - Extracting prescription link
+2024-05-24 18:58:46 - Found link: 
+2024-05-24 18:58:46 - Extracting prescription link
+2024-05-24 18:58:46 - Found link: 
+2024-05-24 18:58:46 - Extracting prescription link
+2024-05-24 18:58:46 - Found link: 
+2024-05-24 18:58:46 - Extracting prescription link
+2024-05-24 18:58:46 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-24/69TFAQG6I0-1716566715.pdf
+2024-05-24 18:58:46 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/69TFAQG6I0-1716566715.pdf
+2024-05-24 18:58:46 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/?auth_url=chambora/69TFAQG6I0-1716566715.pdf
+2024-05-24 18:58:47 - Email sent successfully
+2024-05-24 18:58:47 - Script execution completed
+2024-05-24 19:14:36 - Script execution started
+2024-05-24 19:14:36 - Starting to fetch emails
+2024-05-24 19:14:38 - Fetched 36 emails
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/APPQEEKK3C-1715768507.JPG
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/IE2VMZGJEH-1715780205.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/L17O6FVWEM-1715782260.png
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OF9YHET3A9-1715875868.jpg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/CM7DCM061A-1715928098.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/BMYFSABY7G-1715934433.jpeg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/52XDL09FJ8-1715937390.jpg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/81A8M1BXIG-1715964455.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-20/ZKEVF383T8-1716216836.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-21/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-22/R27NUY8FSS-1716401296.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/KJ573Q258I-1716471767.jpg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: 
+2024-05-24 19:14:38 - Extracting prescription link
+2024-05-24 19:14:38 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-24/69TFAQG6I0-1716566715.pdf
+2024-05-24 19:14:38 - Error creating AWS URL: name 're' is not defined
+2024-05-24 19:14:38 - Script execution completed
+2024-05-24 19:18:55 - Script execution started
+2024-05-24 19:18:55 - Starting to fetch emails
+2024-05-24 19:18:57 - Fetched 36 emails
+2024-05-24 19:18:57 - Extracting prescription link
+2024-05-24 19:18:57 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/APPQEEKK3C-1715768507.JPG
+2024-05-24 19:18:57 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-15/APPQEEKK3C-1715768507.JPG
+2024-05-24 19:18:57 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-15/APPQEEKK3C-1715768507.JPG
+2024-05-24 19:18:58 - Email sent successfully
+2024-05-24 19:18:58 - Extracting prescription link
+2024-05-24 19:18:58 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/IE2VMZGJEH-1715780205.pdf
+2024-05-24 19:18:58 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-15/IE2VMZGJEH-1715780205.pdf
+2024-05-24 19:18:58 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-15/IE2VMZGJEH-1715780205.pdf
+2024-05-24 19:18:59 - Email sent successfully
+2024-05-24 19:18:59 - Extracting prescription link
+2024-05-24 19:18:59 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-15/L17O6FVWEM-1715782260.png
+2024-05-24 19:18:59 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-15/L17O6FVWEM-1715782260.png
+2024-05-24 19:18:59 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-15/L17O6FVWEM-1715782260.png
+2024-05-24 19:19:00 - Email sent successfully
+2024-05-24 19:19:00 - Extracting prescription link
+2024-05-24 19:19:00 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 19:19:00 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-16/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 19:19:00 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-16/OP6ZYTB6FN-1715848696.pdf
+2024-05-24 19:19:00 - Email sent successfully
+2024-05-24 19:19:00 - Extracting prescription link
+2024-05-24 19:19:00 - Found link: 
+2024-05-24 19:19:00 - Extracting prescription link
+2024-05-24 19:19:00 - Found link: 
+2024-05-24 19:19:00 - Extracting prescription link
+2024-05-24 19:19:00 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-16/OF9YHET3A9-1715875868.jpg
+2024-05-24 19:19:00 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-16/OF9YHET3A9-1715875868.jpg
+2024-05-24 19:19:00 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-16/OF9YHET3A9-1715875868.jpg
+2024-05-24 19:19:01 - Email sent successfully
+2024-05-24 19:19:01 - Extracting prescription link
+2024-05-24 19:19:01 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/CM7DCM061A-1715928098.pdf
+2024-05-24 19:19:01 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/CM7DCM061A-1715928098.pdf
+2024-05-24 19:19:01 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/CM7DCM061A-1715928098.pdf
+2024-05-24 19:19:02 - Email sent successfully
+2024-05-24 19:19:02 - Extracting prescription link
+2024-05-24 19:19:02 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/BMYFSABY7G-1715934433.jpeg
+2024-05-24 19:19:02 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/BMYFSABY7G-1715934433.jpeg
+2024-05-24 19:19:02 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/BMYFSABY7G-1715934433.jpeg
+2024-05-24 19:19:02 - Email sent successfully
+2024-05-24 19:19:02 - Extracting prescription link
+2024-05-24 19:19:02 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/52XDL09FJ8-1715937390.jpg
+2024-05-24 19:19:02 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/52XDL09FJ8-1715937390.jpg
+2024-05-24 19:19:02 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/52XDL09FJ8-1715937390.jpg
+2024-05-24 19:19:03 - Email sent successfully
+2024-05-24 19:19:03 - Extracting prescription link
+2024-05-24 19:19:03 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-17/81A8M1BXIG-1715964455.pdf
+2024-05-24 19:19:03 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/81A8M1BXIG-1715964455.pdf
+2024-05-24 19:19:03 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-17/81A8M1BXIG-1715964455.pdf
+2024-05-24 19:19:04 - Email sent successfully
+2024-05-24 19:19:04 - Extracting prescription link
+2024-05-24 19:19:04 - Found link: 
+2024-05-24 19:19:04 - Extracting prescription link
+2024-05-24 19:19:04 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-20/ZKEVF383T8-1716216836.pdf
+2024-05-24 19:19:04 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-20/ZKEVF383T8-1716216836.pdf
+2024-05-24 19:19:04 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-20/ZKEVF383T8-1716216836.pdf
+2024-05-24 19:19:04 - Email sent successfully
+2024-05-24 19:19:04 - Extracting prescription link
+2024-05-24 19:19:04 - Found link: 
+2024-05-24 19:19:04 - Extracting prescription link
+2024-05-24 19:19:04 - Found link: 
+2024-05-24 19:19:04 - Extracting prescription link
+2024-05-24 19:19:04 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-21/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 19:19:04 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-21/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 19:19:04 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-21/F2TFVWRJ1Z-1716285758.jpg
+2024-05-24 19:19:05 - Email sent successfully
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: 
+2024-05-24 19:19:05 - Extracting prescription link
+2024-05-24 19:19:05 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-22/R27NUY8FSS-1716401296.pdf
+2024-05-24 19:19:05 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-22/R27NUY8FSS-1716401296.pdf
+2024-05-24 19:19:05 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-22/R27NUY8FSS-1716401296.pdf
+2024-05-24 19:19:06 - Email sent successfully
+2024-05-24 19:19:06 - Extracting prescription link
+2024-05-24 19:19:06 - Found link: 
+2024-05-24 19:19:06 - Extracting prescription link
+2024-05-24 19:19:06 - Found link: 
+2024-05-24 19:19:06 - Extracting prescription link
+2024-05-24 19:19:06 - Found link: 
+2024-05-24 19:19:06 - Extracting prescription link
+2024-05-24 19:19:06 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 19:19:06 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-23/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 19:19:06 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-23/NO5TT8SBNK-1716448761.jpeg
+2024-05-24 19:19:07 - Email sent successfully
+2024-05-24 19:19:07 - Extracting prescription link
+2024-05-24 19:19:07 - Found link: 
+2024-05-24 19:19:07 - Extracting prescription link
+2024-05-24 19:19:07 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/KJ573Q258I-1716471767.jpg
+2024-05-24 19:19:07 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-23/KJ573Q258I-1716471767.jpg
+2024-05-24 19:19:07 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-23/KJ573Q258I-1716471767.jpg
+2024-05-24 19:19:07 - Email sent successfully
+2024-05-24 19:19:07 - Extracting prescription link
+2024-05-24 19:19:07 - Found link: 
+2024-05-24 19:19:07 - Extracting prescription link
+2024-05-24 19:19:07 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-23/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 19:19:07 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-23/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 19:19:07 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-23/LQ3XEY19ZB-1716479977.jpg
+2024-05-24 19:19:08 - Email sent successfully
+2024-05-24 19:19:08 - Extracting prescription link
+2024-05-24 19:19:08 - Found link: 
+2024-05-24 19:19:08 - Extracting prescription link
+2024-05-24 19:19:08 - Found link: 
+2024-05-24 19:19:08 - Extracting prescription link
+2024-05-24 19:19:08 - Found link: 
+2024-05-24 19:19:08 - Extracting prescription link
+2024-05-24 19:19:08 - Found link: https://app.lensadvizor.com/utils/prescription/?auth_url=chambora/prescriptions/2024-05-24/69TFAQG6I0-1716566715.pdf
+2024-05-24 19:19:08 - Created AWS URL: https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-24/69TFAQG6I0-1716566715.pdf
+2024-05-24 19:19:08 - Sending email to rajpathak.freelancer@gmail.com with AWS URL https://erwdev.s3.amazonaws.com/chambora/prescriptions/2024-05-24/69TFAQG6I0-1716566715.pdf
+2024-05-24 19:19:08 - Email sent successfully
+2024-05-24 19:19:08 - Script execution completed
