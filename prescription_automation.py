@@ -18,8 +18,8 @@ def log(message):
         f.write(f'{timestamp} - {message}\n')
 
 # Email credentials
-email_user = 'rajpathak.er@gmail.com'
-email_pass = 'dhro eqpo ofbz zudn'
+email_user = 'your email'
+email_pass = 'your app password'
 
 # Fetch emails function
 def fetch_emails():
@@ -116,7 +116,7 @@ def main():
         if link:
             aws_url = create_aws_url(link)
             if aws_url:
-                send_email_with_aws_url('rajpathak.freelancer@gmail.com', f'Order {order_number}', 'Please find the prescription attached.', aws_url)
+                send_email_with_aws_url('suplier email', f'Order {order_number}', 'Please find the prescription attached.', aws_url)
     log('Script execution completed')
 
 if __name__ == "__main__":
